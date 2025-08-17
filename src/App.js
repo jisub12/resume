@@ -1,12 +1,13 @@
 import './App.css'
 import Profile from './contents/profile'
 import Introduce from './contents/introduce'
-import Projects from './contents/projects'
+// import Projects from './contents/projects'
 import Skills from './contents/skills'
 import Footer from './contents/footer'
 import Experience from './contents/experience'
 import Education from './contents/education'
 import ETC from './contents/etc'
+import Awards from './contents/Awards'
 
 function App() {
     return (
@@ -29,8 +30,11 @@ function App() {
                 {/* Education */}
                 <Education />
 
-                {/* Awards */}
+                {/* ETC */}
                 <ETC />
+
+                {/* Awards */}
+                <Awards />
 
                 {/* Certifications */}
                 {/* <Certifications /> */}

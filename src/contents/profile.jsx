@@ -65,11 +65,11 @@ const Profile = () => {
                     </a>
                     <a
                         target="_blink"
-                        href="mailto:jisub11@nate.com"
+                        href="mailto:jisub44@naver.com"
                         className="flex items-center gap-[5px] text-slate-600"
                     >
                         <TfiEmail />
-                        jisub11@nate.com
+                        jisub44@naver.com
                     </a>
                     <a
                         target="_blink"

@@ -14,9 +14,9 @@ const Footer = () => {
                     <FaPhone />
                     010-2057-9477
                 </a>
-                <a target='_blink' href="mailto:jisub11@nate.com" className="flex items-center gap-[5px] text-slate-600 mr-[20px]">
+                <a target='_blink' href="mailto:jisub44@naver.com" className="flex items-center gap-[5px] text-slate-600 mr-[20px]">
                     <TfiEmail />
-                    jisub11@nate.com
+                    jisub44@naver.com
                 </a>
                 <a href="https://github.com/jisub12" className="flex items-center gap-[5px] text-slate-600 mr-[20px]">
                     <IoLogoGithub />

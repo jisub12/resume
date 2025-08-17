@@ -36,8 +36,8 @@ const Layout = ({ children }) => {
                             <a target="_blank" rel="noreferrer" href="tel:01020579477" className="flex items-center gap-2 text-slate-700">
                                 <FaPhone /> 010-2057-9477
                             </a>
-                            <a target="_blank" rel="noreferrer" href="mailto:jisub11@nate.com" className="flex items-center gap-2 text-slate-700">
-                                <TfiEmail /> jisub11@nate.com
+                            <a target="_blank" rel="noreferrer" href="mailto:jisub44@naver.com" className="flex items-center gap-2 text-slate-700">
+                                <TfiEmail /> jisub44@naver.com
                             </a>
                             <a target="_blank" rel="noreferrer" href="https://github.com/jisub12" className="flex items-center gap-2 text-slate-700">
                                 <IoLogoGithub /> github.com/jisub12
