@@ -31,12 +31,12 @@ const Experience = () => {
             <ul className="mt-6 flex flex-col gap-[56px]">
                 {/* 블록 1 */}
                 <li className="grid md:grid-cols-[220px_1fr] gap-6 md:gap-10">
-                    <div className="text-slate-500 text-[21px] md:text-[21px]">2025. 01 ~ 2025. 08</div>
+                    <div className="text-slate-500 text-[21px] md:text-[21px]">2025. 01 ~ 2025. 10</div>
                     <div className="space-y-3">
                         <div className="flex items-center gap-2 flex-wrap">
                             <h3 className="text-[22px] md:text-[28px] font-extrabold">오더바이(Orderbye)</h3>
                             <Badge color="blue">재직 중</Badge>
-                            <Badge>8개월</Badge>
+                            <Badge>10개월</Badge>
                         </div>
                         {/* 챕터 1 */}
                         <div className="italic text-slate-500">코인스테이킹 / 풀스택 개발</div>
@@ -52,6 +52,8 @@ const Experience = () => {
                         <ul className="list-disc list-outside pl-5 leading-7 text-[15px] md:text-[16px] text-slate-800">
                             <li>Rust/Anchor IDL 기반으로 무기제작·합성·소각(NFT) 컨트랙트 작성</li>
                             <li>UX를 고려한 프론트엔드 페이지 기능 구현 및 외주개발사와 소통</li>
+                            <li>cNFT, pNFT 트랜잭션 백엔드 호출 기능 구현을 통한 생산성 및 속도 향상</li>
+                            <li>단일처리에서 병렬처리를 통한 처리 속도 향상</li>
                             <li>백엔드 API 설계 및 DB 테이블 구축</li>
                             <li>관리자 페이지 연동을 통한 온/오프체인 관리 기능 구현</li>
                         </ul>
