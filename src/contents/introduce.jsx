@@ -21,14 +21,13 @@ const Introduce = () => {
                         확장 가능하고 유지보수성이 높은 아키텍처와 가독성 있는 코드 작성을 지향합니다.
                     </p>
                     <p>
-                        punkvism의 모든 기능 개발을 담당하며, 솔라나 기반 블록체인 프로젝트의 모든 것을 구현하고 운영한 경험이 있습니다.
+                        <a href="https://punkvism.io" target='_blank' rel="noopener noreferrer" className="text-blue-600 underline hover:text-blue-800">punkvism</a>의 모든 기능 개발을 담당하며, 솔라나 기반 블록체인 프로젝트의 모든 것을 구현하고 운영한 경험이 있습니다.
                         또한 이더리움 기반 DEX 거래소 개발 경험과, 개인 프로젝트로 2D 게임을 바닐라 자바스크립트만으로
                         구현한 경험을 보유하고 있습니다.
                     </p>
                     <p>
                         AWS를 통한 서비스 배포를 직접 수행했으며, 노션을 활용한 체계적인 문서화와
-                        애자일한 커뮤니케이션으로 팀의 합의를 이끌어냅니다. 끝까지 해내는 집념으로
-                        비즈니스 임팩트를 창출하는 것을 추구합니다.
+                        해결한 문제들을 기록하는 습관을 가지고 있습니다.
                     </p>
 
                     <div className="flex justify-end items-center gap-2 text-[12px] md:text-[14px] text-slate-600 mt-[8px]">
